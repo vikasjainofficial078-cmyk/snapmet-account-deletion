@@ -1,0 +1,1 @@
+# snapmet-account-deletion
